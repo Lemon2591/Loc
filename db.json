@@ -1,0 +1,145 @@
+{
+  "booking": [
+    {
+      "name": "CHEVROLET TRAILBLAZER 2018",
+      "typeBooking": 2,
+      "add": "Hưng Yên",
+      "time": "10:00 - 12:00",
+      "text": "Đến sớm",
+      "idAc": "635d332a81b714aebb010691",
+      "idCarBooking": 1,
+      "id": 1
+    },
+    {
+      "name": "MAZDA 3 2019",
+      "typeBooking": 2,
+      "add": "Hưng Yên",
+      "time": "19:00 - 21:00",
+      "text": "123213123",
+      "idAc": "635d332a81b714aebb010691",
+      "idCarBooking": 7,
+      "id": 2
+    },
+    {
+      "name": "VINFAST LUX A 2.0 2021",
+      "typeBooking": 2,
+      "add": "ưqewqeq",
+      "time": "19:00 - 21:00",
+      "text": "ewewqeqweqw",
+      "idAc": "635d332a81b714aebb010691",
+      "idCarBooking": 4,
+      "id": 3
+    },
+    {
+      "name": "MAZDA 3 2019",
+      "typeBooking": 2,
+      "add": "12321312",
+      "time": "10:00 - 12:00",
+      "text": "1321312",
+      "idAc": "635d332a81b714aebb010691",
+      "idCarBooking": 7,
+      "id": 4
+    }
+  ],
+  "dataCar": [
+    {
+      "id": 1,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/chevrolet_trailblazer_2018/p/g/2020/08/28/15/a1UTc6FqL0hXlm5ys3FBAA.jpg",
+      "name": "CHEVROLET TRAILBLAZER 2018",
+      "cost": 1200000,
+      "location": "Hồ Chí Minh",
+      "location_code": 1,
+      "type": "Số tự động"
+    },
+    {
+      "id": 2,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_attrage_2020/p/g/2021/02/03/16/yAsspZPxrEerjwt3ucyQFQ.jpg",
+      "name": "MITSUBISHI ATTRAGE 2020",
+      "cost": 700000,
+      "location": "Hồ Chí Minh",
+      "location_code": 1,
+      "type": "Số tự động"
+    },
+    {
+      "id": 3,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_outlander_2020/p/g/2021/09/27/19/Qm2lncQPTIR1XGt3Do1Zug.jpg",
+      "name": "MITSUBISHI OUTLANDER 2020",
+      "cost": 1150000,
+      "location": "Hồ Chí Minh",
+      "location_code": 1,
+      "type": "Số tự động"
+    },
+    {
+      "id": 4,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/vinfast_lux_a_2.0_2021/p/g/2021/10/16/09/wNdLdaNdHAbQQUnjfpcmZA.jpg",
+      "name": "VINFAST LUX A 2.0 2021",
+      "cost": 1300000,
+      "location": "Hồ Chí Minh",
+      "location_code": 1,
+      "type": "Số tự động"
+    },
+    {
+      "id": 5,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_xpander_2019/p/g/2021/00/17/22/WhKdEmYXLWRTolh0Fl_KQw.jpg",
+      "name": "MITSUBISHI XPANDER 2019",
+      "cost": 800000,
+      "location": "Hồ Chí Minh",
+      "location_code": 1,
+      "type": "Số tự động"
+    },
+    {
+      "id": 6,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/vinfast_fadil_2021/p/g/2021/02/23/16/E8ZRlEg-53GoYEccuXXD8Q.jpg",
+      "name": "VINFAST FADIL 2021",
+      "cost": 650000,
+      "location": "Hồ Chí Minh",
+      "location_code": 1,
+      "type": "Số tự động"
+    },
+    {
+      "id": 7,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mazda_3_2019/p/g/2021/09/29/14/Mbo9NlitIcg_byRNbC3f1Q.jpg",
+      "name": "MAZDA 3 2019",
+      "cost": 850000,
+      "location": "Hà Nội",
+      "location_code": 2,
+      "type": "Số tự động"
+    },
+    {
+      "id": 8,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/toyota_rush_2020/p/g/2020/07/27/14/M8rokWqgWGq-igXzKyqGmA.jpg",
+      "name": "TOYOTA RUSH 2020",
+      "cost": 850000,
+      "location": "Hà Nội",
+      "location_code": 2,
+      "type": "Số tự động"
+    },
+    {
+      "id": 9,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_bentre/toyota_vios_e_2019/p/g/2019/11/06/16/6XtV_t8eUlI809ZnKDfBhA.jpg",
+      "name": "TOYOTA VIOS E 2019",
+      "cost": 650000,
+      "location": "Hà Nội",
+      "location_code": 2,
+      "type": "Số tự động"
+    },
+    {
+      "id": 10,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_xpander_2019/p/g/2021/01/28/23/ZvMLl9xy7TW52iWsXs_dFw.jpg",
+      "name": "SUZUKI CELERIO 2019",
+      "cost": 1100000,
+      "location": "Hà Nội",
+      "location_code": 2,
+      "type": "Số tự động"
+    },
+    {
+      "id": 11,
+      "img": "https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/toyota_innova_venturer_2019/p/g/2020/06/05/11/iQeKWEUNflGxIoViC82WXg.jpg",
+      "name": "TOYOTA INNOVA VENTURER 2019",
+      "cost": 1250000,
+      "location": "Hà Nội",
+      "location_code": 2,
+      "type": "Số tự động"
+    }
+  ]
+}
